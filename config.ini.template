@@ -1,0 +1,1 @@
+[RelayCommands]\n# Commands for controlling the relay\nCommand1=turn_on\nCommand2=turn_off\n\n[BatteryThresholds]\n# Battery thresholds configuration\nLowVoltage=3.5\nHighVoltage=4.2\n
